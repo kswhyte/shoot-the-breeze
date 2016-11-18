@@ -27,15 +27,4 @@ By default, messages are stored in chronological order
 Chat messages display time stamp, user, and message
 
 ---
-####Setup setups:
-
-- Clone this repository.
-- `npm install`
-- Set up a new Firebase application.
-- Replace the keys in `./lib/firebase.js`.
-- Turn on Google authentication in the Firebase specification.
-- Add the name of your project as the default in the .firebaserc file. This is the name you gave it in firebase, plus the string of characters that firebase appended, e.g. "shoot-the-breeze-aa5d9" 
-- `npm start` or `npm test`.
-
----
 If you're feeling chatty, maybe it's a good time to [Shoot the Breeze](https://shoot-the-breeze-b2fe6.firebaseapp.com/).
