@@ -28,3 +28,5 @@ Chat messages display time stamp, user, and message
 
 ---
 If you're feeling chatty, maybe it's a good time to [Shoot the Breeze](https://shoot-the-breeze-b2fe6.firebaseapp.com/).
+
+<img width="647" alt="screen shot 2017-01-11 at 10 13 20 pm" src="https://cloud.githubusercontent.com/assets/13802107/21877872/6faf42ec-d84b-11e6-9081-d6db113bbe79.png">
