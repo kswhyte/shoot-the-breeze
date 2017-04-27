@@ -3,7 +3,7 @@
 In this project we set out to build a chat-box style app in which users could shoot the breeze with each other from a sign-in with google accounts on Firebase. Within each users account, upon sign-in, they are able to save up to 100 messages and view a list of users that are present in the chat room. Users are also able to filter through messages by message content, username, and date/time. They can sort messages by new or old, and can also sort messages by clicking a user that is present on the user-list. 
 
 ---
-####Main Goals
+#### Main Goals
 
 All components must be tested using Enzyme - You do not need to test authentication.
 App must be robustly tested using unit tests
@@ -11,7 +11,7 @@ Application must use Firebase to store chats
 Webpack for build tools
 
 ---
-###General Features:
+### General Features:
 
 An input field for typing messages
 Input field has a character count
